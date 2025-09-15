@@ -22,9 +22,10 @@ This research project employs mechanistic interpretability to move beyond the su
 
 The decision to refuse a request builds gradually across all layers of the network, indicating a distributed consensus mechanism.
 📁 File: figures/probability_build_up.png
-https://figures/probability_build_up.png
 
-<img width="1920" height="1020" alt="Screenshot 2025-09-15 092018" src="https://github.com/user-attachments/assets/77152d95-9794-4fb3-8d43-47cf9b99ee38" />
+
+<img width="1920" height="758" alt="Screenshot 2025-09-15 094439" src="https://github.com/user-attachments/assets/23777aa3-3974-418a-9f6f-5f8d54ecbe48" />
+
 
 Caption: The probability of the model outputting a refusal token ('.') increases steadily across layers, demonstrating that safety is a distributed process, not a single-layer decision.
 
